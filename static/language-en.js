@@ -1,0 +1,21 @@
+export const en = {
+    welcomeTitle: 'Welcome, KKKK',
+    help: 'Need Help?',
+    language: 'Language',
+    currency: 'Currency',
+    shopName: '',
+    signup: 'Sign up',
+    signuplabel: 'Sign up on Buyanz',
+    email: 'Email',
+    password: 'Password',
+    confimrPassword: 'Comfirm Password',
+    haveAccount: 'Having an account',
+    useEight: 'Use 8 or more characters with a mix of letters, numbers & symbols',
+    enterEmail: 'Please enter your email',
+    enterPhone: 'Please enter your phone',
+    enterPwdEmail: 'Please enter your password',
+    loginText: 'log in',
+    wecharLogin: 'Sign in with wechat',
+    emailLoginText: 'Email login',
+    phoneLoginText: 'Mobile login'
+}

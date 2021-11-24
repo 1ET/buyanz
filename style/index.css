@@ -1,0 +1,134 @@
+.header {
+    width: 100%;
+    height: 40px;
+    background-color: #BD0303;
+    display: flex;
+    justify-content: space-around;
+}
+.leftContain {
+    display: flex;
+    align-items: center;
+}
+.leftContainItem {
+    color: #FFFFFF;
+    margin-left: 27px;
+    font-size: 12px;
+}
+.rightContain {
+    display: flex;
+    color: #FFFFFF;
+    margin-left: 27px;
+    align-items: center;
+}
+.rightContainItem {
+    color: #FFFFFF;
+    font-size: 12px;
+    white-space: nowrap
+}
+.loginCard {
+    width: 416px;
+    margin: 0 auto;
+}
+.mbLoginCard {
+    width: calc(100% - 40px);
+    margin: 0 auto;
+}
+.signUpLabel {
+    font-size: 24px;
+    color: #2B3445;
+}
+.emailLabel {
+    margin-bottom: 10px;
+}
+.commonButton {
+    width: 100%;
+}
+.signUpSmallLabel {
+    font-size: 10px;
+    font-family: Nunito Sans-Regular, Nunito Sans;
+    font-weight: 400;
+    color: #AEB4BE;
+    margin: 0;
+}
+.inputMargin {
+    margin-top: 25px;
+}
+.loginTip {
+    font-size: 12px;
+    font-family: Open Sans-Regular, Open Sans;
+    font-weight: 400;
+    color: #7D879C;
+}
+.errorCard {
+    width: 100%;
+    /* height: 24px; */
+    display: flex;
+    align-items: center;
+    border: 1px solid #D23F57;
+    background: #FCE9EC;
+    margin-bottom: 15px;
+}
+.errorIcon {
+    width: 25px;
+    /* height: 24px; */
+    background: #D23F57;
+    border-radius: 0px 0px 0px 0px;
+    opacity: 1;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 1px solid #D23F57;
+    color: #FFFFFF;
+}
+.errorText {
+    margin: 0;
+    margin-left: 6px;
+    font-size: 12px;
+    font-family: Open Sans-SemiBold, Open Sans;
+    font-weight: 600;
+    color: #4B566B;
+}
+.hide {
+    visibility: hidden;
+}
+.errorIconAuto {
+    height: 34px;
+}
+.menus {
+    /* vertical: 'bottom'; */
+    /* horizontal: 'right'; */
+}
+.loginTab {
+    width: 416px;
+    margin: 0 auto;
+}
+.tabHeader {
+    box-shadow: none !important;
+    background-color: #fafafa !important;
+    color: #2B3445;
+}
+.emailMargin {
+    margin-top: 25px;
+}
+.emailTab {
+    margin-top: 70px;
+}
+.dividerClass {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 20px;
+}
+.customerDivider {
+    width: calc(50% - 30px);
+}
+.dividerText {
+    margin: 0;
+    font-size: 24px;
+    font-family: Nunito Sans-Regular, Nunito Sans;
+    font-weight: 400;
+    color: #2B3445;
+}
+.buttonCourse {
+    cursor: pointer;
+}

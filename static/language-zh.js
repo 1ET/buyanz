@@ -1,0 +1,21 @@
+export const zh = {
+    welcomeTitle: '欢迎xx登录',
+    help: '需要帮助?',
+    language: '语言',
+    currency: '货币',
+    shopName: '',
+    signup: '注册',
+    signuplabel: '注册Buyanz账户',
+    email: '邮箱',
+    password: '密码',
+    confimrPassword: '确认密码',
+    haveAccount: '已有账户',
+    useEight: '请使用至少8位字母，数字和符号混合的密码',
+    enterEmail: '请输入你的邮箱',
+    enterPhone: '请输入你的手机号',
+    enterPwdEmail: '请输入你的密码',
+    loginText: '登录',
+    wecharLogin: '微信登录',
+    emailLoginText: '邮箱登录',
+    phoneLoginText: '手机登录'
+}
